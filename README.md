@@ -1,4 +1,5 @@
 # Predictive Maintenance Project
+![simulasyon-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/89694400-266c-412a-9ef6-02776490c01d)
 
 ## Project Overview
 
